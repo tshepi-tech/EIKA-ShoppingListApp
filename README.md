@@ -40,7 +40,7 @@ A customer of EIKA that is looking for furniture and creating a shopping list wh
 #### Installation: ####
 
 * Clone the repo
-git clone https://github.com/github_username/repo_name.git
+git clone https://github.com/tshepi-tech/EIKA-ShoppingListApp.git
 * Install NPM packages
 `npm install`
 
