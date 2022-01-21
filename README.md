@@ -82,7 +82,7 @@ Thank yo for the support
 
 * [Stu Bolderson](https://github.com/stu1612)
 * [Thaisa]
-* [Gertrude]
+* [Gertrude](https://github.com/SimplyGertrude)
 
 
 
