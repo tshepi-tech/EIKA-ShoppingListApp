@@ -13,7 +13,7 @@ Develop a shopping list app that can work from any mobile web browser without in
 ### Functional requirements: ###
 
 * Develop it with React functional components instead of class based components. (Modern React)
-* Allow to write a task by adding an item name and price.  Example: “VÖXLOV”, “755:-”
+* Allow to write a task by adding an item name and price. Example: “VÖXLOV”, “755:-”
 * Allow to mark  a shopping item as completed/acquired.
 * Allow to view or hide completed/acquired shopping items.
 * We would like that the users can close and reopen the page without losing their list.
@@ -37,6 +37,47 @@ A customer of EIKA that is looking for furniture and creating a shopping list wh
 
 * npm
 `npm install npm@latest -g`
+
+#### Installation: ####
+
+* Clone the repo
+git clone https://github.com/github_username/repo_name.git
+* Install NPM packages
+`npm install`
+
+#### Usage ####
+
+The user enters the app on the homescreen. The homescreen has a  welcome image and instructions on how to use the app. A button is available to start using the app. 
+![homescreen](https://user-images.githubusercontent.com/95541911/150535088-7a27bba6-06a7-43d7-9ef5-6ec0543a09cd.png)
+
+The following are features of the app.
+
+**1. Add Item**
+Form appeard and a button to Add item or close form can be used to toggle form
+![Add Item](https://user-images.githubusercontent.com/95541911/150535605-5cba56e8-16fe-4782-8bc0-f9cfcffdd68f.png)
+
+**2. Display Item**
+![display item](https://user-images.githubusercontent.com/95541911/150535845-97489347-8abc-47d1-9fd8-faea060445f7.png)
+
+**3. Cross off item when bought**
+![cross off item](https://user-images.githubusercontent.com/95541911/150535942-16b809d5-a098-4b59-b3b4-8199e3fac38d.png)
+
+**4. Filter bought/pending item**
+![pending](https://user-images.githubusercontent.com/95541911/150536084-c15c5b15-00ed-4505-ad63-0cea50a70e4e.png) ![bought](https://user-images.githubusercontent.com/95541911/150536122-daa874ad-042d-46a1-989d-0964ba483eff.png)
+
+**5. Delete item**
+![Delete](https://user-images.githubusercontent.com/95541911/150536201-a3b3a96c-8e6f-4f3c-9a61-0d6f502d3aef.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
