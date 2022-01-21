@@ -73,16 +73,14 @@ Form appeard and a button to Add item or close form can be used to toggle form
 ### Main components ###
 
 ![README (1)](https://user-images.githubusercontent.com/95541911/150537205-2c076876-b342-40fb-8144-d0e60fd277e9.png)
-
 ![README (2)](https://user-images.githubusercontent.com/95541911/150537214-29d56b97-c73c-4773-ae92-5823fad49269.png)
-
 ![README (3)](https://user-images.githubusercontent.com/95541911/150537220-51f092df-645d-47df-b1a6-91cb4e724360.png)
 
 ## Aknowledgements ##
 
 Thank yo for the support
 
-* [Stu BBolderson](https://github.com/stu1612)
+* [Stu Bolderson](https://github.com/stu1612)
 * [Thaisa]
 * [Gertrude]
 
