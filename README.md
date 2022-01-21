@@ -36,7 +36,7 @@ A customer of EIKA that is looking for furniture and creating a shopping list wh
 #### Pre-requisites ####
 
 * npm
-`npm install npm@latest -g``
+`npm install npm@latest -g`
 
 
 
