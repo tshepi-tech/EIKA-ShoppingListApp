@@ -81,7 +81,7 @@ Form appeard and a button to Add item or close form can be used to toggle form
 Thank yo for the support
 
 * [Stu Bolderson](https://github.com/stu1612)
-* [Thaisa]
+* [Thaisa](https://github.com/limatfc)
 * [Gertrude](https://github.com/SimplyGertrude)
 
 
