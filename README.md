@@ -1,4 +1,3 @@
-# EIKARepo
 Created with CodeSandbox
 
  # Shopping List App for EIKA #
@@ -67,6 +66,9 @@ Form appeard and a button to Add item or close form can be used to toggle form
 
 **5. Delete item**
 ![Delete](https://user-images.githubusercontent.com/95541911/150536201-a3b3a96c-8e6f-4f3c-9a61-0d6f502d3aef.png)
+
+## App structure ##
+
 
 
 
