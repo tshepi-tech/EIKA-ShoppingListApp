@@ -12,6 +12,9 @@ const AddForm = ({ onAdd, setProgress }) => {
       alert("Please add item");
       return;
     }
+    if (price < 0) {
+      alert("price must be more than 0SEK");
+    }
     onAdd({ name, price, note });
     //clear form
     setName("");
@@ -47,7 +50,7 @@ const AddForm = ({ onAdd, setProgress }) => {
       <div className="form-control">
         <label>Price</label>
         <input
-          type="integer"
+          type="number"
           placeholder="Add Price"
           value={price}
           onChange={priceHandler}
