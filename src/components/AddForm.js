@@ -14,6 +14,7 @@ const AddForm = ({ onAdd, setProgress }) => {
     }
     if (price < 0) {
       alert("price must be more than 0SEK");
+      return;
     }
     onAdd({ name, price, note });
     //clear form
